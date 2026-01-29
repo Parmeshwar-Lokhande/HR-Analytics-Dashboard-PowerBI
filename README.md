@@ -127,6 +127,9 @@ Integration with real-time HR systems
 👤 Author and Contact:-
 
 Author: Parmeshwar Lokhande
+
 Role: Aspiring Data Analyst
+
 GitHub: https://github.com/Parmeshwar-Lokhande
+
 Email: parmeshwarlokhande30@gmail.com
